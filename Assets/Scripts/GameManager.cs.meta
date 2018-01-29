@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44425bc3696e34ab981195b6baacca02
+timeCreated: 1517054641
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - marcador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
