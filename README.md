@@ -8,4 +8,4 @@ The objective is to destroy the enemy ship by throwing the energy core into it. 
 
 It was developed for **Global Game Jam 2018**, "**Transmission**".
 
-You can play the game here: https://jaimuepe.itch.io/overcharge
+You can find more info here: https://jaimuepe.itch.io/overcharge
